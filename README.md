@@ -1,4 +1,4 @@
-# Hello.
+# Hello!
 
 ## Languages I enjoy writing in! (personal preferance)
 
