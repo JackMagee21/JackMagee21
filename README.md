@@ -1,6 +1,6 @@
 # Hello.
 
-## Languages I write in! (personal preferance)
+## Languages I enjoy writing in! (personal preferance)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
