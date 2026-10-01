@@ -26,9 +26,5 @@
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JackMagee21&bg_color=0d1117&color=8b949e&line=58a6ff&point=e6edf3&area=true&area_color=1f6feb&hide_border=true&hide_title=true" alt="Contribution graph" />
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:161b22,100:0d1117&height=2&section=footer" alt="" width="100%" />
 </p>
